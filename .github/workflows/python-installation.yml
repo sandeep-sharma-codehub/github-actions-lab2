@@ -1,3 +1,4 @@
+#Added strategy
 name: Installing Python
 
 on: [push]
